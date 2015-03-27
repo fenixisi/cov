@@ -1,0 +1,27 @@
+#page {
+    padding-top: 60px;
+    padding-bottom: 30px;
+/*    background:url(../img/tiny_grid.png) repeat 0 0;
+	height:100%;
+	min-height:500px;*/
+}
+
+.select2-container{
+	margin-bottom: 10px !important;
+}
+
+.toggle-button{
+	margin-bottom: 10px !important;	
+}
+
+ul.dropdown-menu>li>a{
+	padding: 3px 10px !important;
+}
+
+div.pull-right ul.dropdown-menu>li>a{
+	padding: 3px 30px !important;
+}
+
+.bootstrap-widget-header{
+	overflow: visible !important;
+}
